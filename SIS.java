@@ -1,4 +1,4 @@
-1import java.util.*;
+import java.util.*;
 class SIS{
 	public static void main(String args[]){
 		
@@ -11,9 +11,9 @@ class SIS{
 		
 		System.out.println('\n');
 		
-		System.out.println("\t [1] Calculate Income Tax");
-		System.out.println("\t [2] Calculate Annual Bonus");
-		System.out.println("\t [3] Calculate Loan Amount");
+		System.out.println("\t [1] Calculate Income Tax ");
+		System.out.println("\t [2] Calculate Annual Bonus ");
+		System.out.println("\t [3] Calculate Loan Amount ");
 		
 		System.out.println('\n');
 		
